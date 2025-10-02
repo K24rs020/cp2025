@@ -7,6 +7,6 @@ This is README.
 
 ## part2
 1. sunday
-1. monday
-1. tuesday
-1. wendnesday
+2. monday
+3. tuesday
+4. wendnesday
